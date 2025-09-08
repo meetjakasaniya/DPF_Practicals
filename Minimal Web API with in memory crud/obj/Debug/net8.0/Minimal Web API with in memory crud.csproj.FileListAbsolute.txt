@@ -1,0 +1,35 @@
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\appsettings.Development.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\appsettings.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Minimal Web API with in memory crud.staticwebassets.endpoints.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Minimal Web API with in memory crud.exe
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Minimal Web API with in memory crud.deps.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Minimal Web API with in memory crud.runtimeconfig.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Minimal Web API with in memory crud.dll
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Minimal Web API with in memory crud.pdb
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.csproj.AssemblyReference.cache
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.AssemblyInfoInputs.cache
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.AssemblyInfo.cs
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.csproj.CoreCompileInputs.cache
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.MvcApplicationPartsAssemblyInfo.cs
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\scopedcss\bundle\Minimal Web API with in memory crud.styles.css
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\staticwebassets.build.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\staticwebassets.development.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal .05B6FE9E.Up2Date
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.dll
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\refint\Minimal Web API with in memory crud.dll
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.pdb
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\Minimal Web API with in memory crud.genruntimeconfig.cache
+E:\SEM 5\DOT NET\vs\Minimal Web API with in memory crud\obj\Debug\net8.0\ref\Minimal Web API with in memory crud.dll

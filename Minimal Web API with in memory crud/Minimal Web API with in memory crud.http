@@ -1,0 +1,6 @@
+@Minimal_Web_API_with_in_memory_crud_HostAddress = http://localhost:5007
+
+GET {{Minimal_Web_API_with_in_memory_crud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
